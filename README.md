@@ -130,7 +130,7 @@
 
 
 #### Qiita
-[https://qiita.com/ryo2132](https://qiita.com/ryo2132)
+[https://qiita.com/kazu1212-star](https://qiita.com/kazu1212-star)
 
 <QiitaArticles />
 
