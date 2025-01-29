@@ -20,6 +20,8 @@
 </p>
 
 ## 職務経歴
+#### 嶋屋種苗株式会社
+:::details 2020/03 〜　2023/06
 
 #### [株式会社THEHUB](https://www.thehub.co.jp/)
 :::details 2024/07〜現在
@@ -88,22 +90,16 @@
 
 <div>
 
-|言語|業務経験|
+||業務経験|
 |---|---|
 |<img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" />|1年|
-|<img alt="reactNative" src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=" />|2ヶ月|
+|<img alt="reactNative" src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=" />|3ヶ月|
 |<img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />|2ヶ月|
-
-</div>
-
-<div>
-
-|フレームワーク|業務経験|
-|---|---|
 |<img alt="Vue" src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel.js&logoColor=white" />|1年|
 |<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|1年|
 |<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />|2ヶ月|
 |<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />|2ヶ月|
+|<img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform" />|2ヶ月|
 
 </div>
 </div>
@@ -113,6 +109,7 @@
 - Laravelでのフロントエンド、バックエンド開発・設計
 - 0->1開発の要件定義、画面設計、機能設計、DB設計
 - 未経験技術への迅速なキャッチアップ、アウトプット
+- terraformでインフラ構築
 
 <!-- ## 意欲・興味
 
